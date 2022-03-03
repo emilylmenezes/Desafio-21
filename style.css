@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: black;
+}
+.cabecalho p{
+    color: white;
+}
+.cabecalho img{
+    width: 144px;
+    height: 84px;
+}
